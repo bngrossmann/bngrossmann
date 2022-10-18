@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bngrossmann
+<!---- 👋 Hi, I’m @bngrossmann
 - 👀 I’m interested in Data Science
-<!---
+
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
